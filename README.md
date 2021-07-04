@@ -1,4 +1,6 @@
 # Amazon-Flipkart-Price-Comparison-Engine
+
+<hr />
 ### Compares price of the products entered by the user from e-commerce sites: Amazon and Flipkart
 
 <p align="center">
