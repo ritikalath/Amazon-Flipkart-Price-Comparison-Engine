@@ -8,5 +8,5 @@
 </p>
 <br />
 
-## Introduction <br />
+## * Introduction <br />
 This project utilises the power of web scraping library Beautiful Soup and Pandas module to create a product comparison tool and store dataframe in an excel file.
