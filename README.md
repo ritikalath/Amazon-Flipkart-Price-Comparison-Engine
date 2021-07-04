@@ -9,4 +9,13 @@
 <br />
 
 ## * Introduction <br />
+<hr />
 This project utilises the power of web scraping library Beautiful Soup and Pandas module to create a product comparison tool and store dataframe in an excel file.
+
+## Installation
+<hr />
+If you do not have Python 3.7+, you can download it 
+
+## About
+
+### price_comparator
