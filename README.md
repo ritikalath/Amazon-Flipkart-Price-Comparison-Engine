@@ -14,7 +14,7 @@ This file contains code that implements price comparison feature.The users have 
 <br />
 <br/>
 <p align="center">
-  <img width="700" height="500" src="https://github.com/ritikalath/Amazon-Flipkart-Price-Comparison-Engine/blob/main/images/data1.png">
+  <img width="600" height="400" src="https://github.com/ritikalath/Amazon-Flipkart-Price-Comparison-Engine/blob/main/images/data1.png">
 </p>
 
 <h2> product_comparator.py </h2>
@@ -22,7 +22,7 @@ This file contains code that implements product comparison feature.The users nee
 <br />
 <br />
 <p align="center">
-  <img width="700" height="500" src="https://github.com/ritikalath/Amazon-Flipkart-Price-Comparison-Engine/blob/main/images/data2.png">
+  <img width="600" height="400" src="https://github.com/ritikalath/Amazon-Flipkart-Price-Comparison-Engine/blob/main/images/data2.png">
 </p>
 
 
