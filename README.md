@@ -10,7 +10,16 @@ This is a product comparison tool that utilises the power of web scraping librar
 <hr />
 
 <h2> price_comparator.py </h2>
-This file contains code that implements price comparison feature. It takes the following inputs: <br />
+This file contains code that implements price comparison feature.The user has to enter the name of product he is looking for.  
+
+
+
+
+
+This function takes the following inputs:<br />
+* The size of grid(N) <br />
+* The shape of grid (initial state of puzzle) <br />
+and solves the grid setting using A-Star or BFS. <br />
 
 
 
