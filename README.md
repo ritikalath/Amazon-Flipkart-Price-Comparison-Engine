@@ -4,7 +4,7 @@
 
 <h1> Amazon-Flipkart-Price-Comparison-Engine </h1>
  
-<h2> Compares price of the products entered by the user from e-commerce sites: Amazon and Flipkart </h2> 
+<h2> Compares features of products from e-commerce sites: Amazon and Flipkart </h2> 
 
 <hr />
 
