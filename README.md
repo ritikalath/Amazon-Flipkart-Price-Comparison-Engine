@@ -5,6 +5,7 @@
 <h1> Amazon-Flipkart-Price-Comparison-Engine </h1>
  
 <h2> Compares features of products from E-Commerce sites: Amazon and Flipkart </h2> 
+This is a product comparison tool that utilises the power of web scraping library Beautiful Soup to compare prices and specifications of multiple products at the same time on an online shopping website or prices of a product on different such websites.
 
 <hr />
 
