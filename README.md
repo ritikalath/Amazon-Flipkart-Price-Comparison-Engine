@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="360" height="300" src="https://www.mysmartprice.com/gear/wp-content/uploads/2018/05/Amazon-vs.-Flipkart.jpg">
+  <img width="360" height="300" src="https://github.com/ritikalath/Amazon-Flipkart-Price-Comparison-Engine/blob/main/images/img.jpg">
 </p>
 
 <h1> Amazon-Flipkart-Price-Comparison-Engine </h1>
