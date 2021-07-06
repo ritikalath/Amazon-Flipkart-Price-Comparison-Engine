@@ -10,6 +10,7 @@ This is a product comparison tool that utilises the power of web scraping librar
 <hr />
 
 <h2> price_comparator.py </h2>
-This file contains code that implements price comparison feature.
+This file contains code that implements price comparison feature. It takes the following inputs: <br />
+
 
 
