@@ -9,3 +9,5 @@ This is a product comparison tool that utilises the power of web scraping librar
 
 <hr />
 
+<h2> price_comparator.py </h2>
+
